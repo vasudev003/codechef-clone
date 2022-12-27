@@ -1,0 +1,17 @@
+  .carousel-image {
+    width: 100%;
+    min-height: 70vh;
+    height: 70vh;
+  }
+  .sliderbg{
+    padding: 15px 0;
+    margin-top: -27px;
+  }
+
+  .heading{
+    color: white;
+  }
+
+  .desc{
+    color: white;
+  }
